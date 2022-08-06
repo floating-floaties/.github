@@ -1,4 +1,4 @@
-## Hello there 👋
+# I ❤️ Rust
 
 <!--
 
